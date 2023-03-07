@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="title">Login</string>
+    <string name="message_login">Please sign in to continue</string>
+    <string name="email_label">E-mail</string>
+    <string name="password_label">Password</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="have_account">Sign in</string>
+    <string name="button_sign_up">Sign in</string>
+</resources>
